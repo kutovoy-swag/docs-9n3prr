@@ -1,0 +1,3 @@
+User-agent: *
+Allow: /
+Sitemap: https://news-7f34je.acelerabahia.com/sitemap.xml
